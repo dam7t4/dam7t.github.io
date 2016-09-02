@@ -296,6 +296,7 @@ Full-Width Styles
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
 }
 
 #header_wrap .inner {
