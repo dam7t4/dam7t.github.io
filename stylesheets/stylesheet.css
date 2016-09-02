@@ -281,8 +281,8 @@ Full-Width Styles
 }
 
 
-/*This is the styling for the tag at the top of the page.---------------------------------------------------------------------------------
-*/
+/*This is the styling for the tag at the top of the page.-------------------------------------------------------------------------------*/
+
 #forkme_banner {
   display: block;
   position: absolute;
@@ -291,7 +291,7 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #000000;
-  background: url('../images/Bicycle.png') #800000 no-repeat 1% 1%;
+  background: url('../images/Bicycle.png') #800000 no-repeat 18px 18px;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 0px;
