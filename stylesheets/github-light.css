@@ -24,7 +24,7 @@ SOFTWARE.
 */
 
 .pl-c /* comment */ {
-  color: #111111;
+  color: #969896;
 }
 
 .pl-c1 /* constant, variable.other.constant, support, meta.property-name, support.constant, support.variable, meta.module-reference, markup.raw, meta.diff.header */,
@@ -85,7 +85,7 @@ SOFTWARE.
 .pl-mh /* markup.heading */,
 .pl-mh .pl-en /* markup.heading entity.name */,
 .pl-ms /* meta.separator */ {
-  font-weight: bold;
+  font-weight: italic;
   color: #1d3e81;
 }
 
