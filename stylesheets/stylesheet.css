@@ -103,7 +103,7 @@ p {
 }
 
 footer p {
-  color: #f2f2f2;
+  color: #000000;
 }
 
 a {
@@ -277,12 +277,12 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: #000000;
+  background: -moz-linear-gradient(top, #000000, #33ff58); /*Changes the color of top banner. Color is at a gradient*/
+  background: -webkit-linear-gradient(top, #000000, #33ff58);
+  background: -ms-linear-gradient(top, #000000, #33ff58);
+  background: -o-linear-gradient(top, #000000, #33ff58);
+  background: linear-gradient(top, #000000, #33ff58);
 }
 
 
@@ -305,7 +305,8 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 0px 10px 1px 0px;
+  text-align: center;
 }
 
 #project_title {
@@ -374,10 +375,10 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #ec8b00;
+  text-align: left;
+
 }
-
-
 
 /*******************************************************************************
 Small Device Styles
