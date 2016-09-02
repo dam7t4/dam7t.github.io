@@ -74,7 +74,7 @@ SOFTWARE.
 }
 
 .pl-sr .pl-cce /* string.regexp constant.character.escape */ {
-  font-weight: italic;
+  font-weight: bold;
   color: #63a35c;
 }
 
@@ -85,7 +85,7 @@ SOFTWARE.
 .pl-mh /* markup.heading */,
 .pl-mh .pl-en /* markup.heading entity.name */,
 .pl-ms /* meta.separator */ {
-  font-weight: italic;
+  font-weight: bold;
   color: #1d3e81;
 }
 
@@ -94,7 +94,7 @@ SOFTWARE.
 }
 
 .pl-mi /* markup.italic */ {
-  font-style: italic;
+  font-style: bold;
   color: #333;
 }
 
