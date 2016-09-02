@@ -68,7 +68,7 @@ h1, h2, h3, h5, h6 {
 
 h4 {
 	margin: 0px 0;
-	border: raised;
+	border: none;
 }
 
 h1 {
@@ -291,8 +291,8 @@ Full-Width Styles
 #forkme_banner {
   display: block;
   position: absolute;
-  top:0;
-  right: 10px;
+  top:0px;
+  right: 90%;
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #000000;
