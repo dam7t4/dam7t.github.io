@@ -307,12 +307,11 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #000000;
-  background: url('../images/tree.png') #800000 no-repeat 0% 0%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
-  /*border-bottom-left-radius: 0px;
+  border-bottom-left-radius: 30px;
   border-bottom-right-radius: 30px;
-  border-top-left-radius: 30px;*/
+  border-top-left-radius: 0px;
 }
 
 /*End.-------------------------------------------------------------------------------*/
