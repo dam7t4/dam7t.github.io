@@ -299,20 +299,38 @@ Full-Width Styles
 }
 
 
-#forkme_banner2 {
+#forkme_banner1 {
   display: block;
   position: absolute;
-  top:5px;
+  top:50px;
   right: 10%;
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #000000;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
-  border-top-left-radius: 0px;
-}
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  }
+  
+  
+  #forkme_banner2 {
+  display: block;
+  position: absolute;
+  top:50px;
+  right: 20%;
+  z-index: 10;
+  padding: 10px 50px 10px 10px;
+  color: #000000;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  }
 
 /*End.-------------------------------------------------------------------------------*/
 
